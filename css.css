@@ -189,6 +189,22 @@ nav .cancel-icon,
   padding-left: 25px;
   padding-right: 25px;
 }
+media screen and (max-width: 580px) {
+   .content {
+    text-align: center;
+    font-size: 15px;
+    display: flex;
+    padding-top: 120px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.logopng{
+  margin-top: 80px;
+  margin-right: 0px;
+  width: 200px;
+  height: 200px;
+}
+}
 .container {
     width: auto;
 }
